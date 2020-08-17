@@ -3,11 +3,11 @@ name: Ph03n1x
 title: Ph03n1x | A blog for my research and CTFs
 description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - ctf
+  - web
+  - security
+  - research
+  - xss
 email: youremail@xyz.com
 disqus_username: disqus_username
 show_hero: true
