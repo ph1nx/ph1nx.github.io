@@ -42,7 +42,7 @@ The final payload for LFI will be `/index.php?include=http:/../../../var/www/upl
 After getting the shell, `cat` the files in directory.<br>
 The flag is in `config.php`.
 
-### Flag: `inctf{REQU357_5MUGG71NG_4ND_1NCLUD3_F0R_TH3_W1N}`
+**<em>Flag: `inctf{REQU357_5MUGG71NG_4ND_1NCLUD3_F0R_TH3_W1N}`</em>**
 
 
 
