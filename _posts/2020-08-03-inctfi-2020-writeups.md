@@ -3,8 +3,8 @@ date: 2020-08-03 13:24:49
 layout: post
 title: INCTFi 2020 Writeup
 description: Write-up for challenge Buggy
-image: https://ctftime.org/media/cache/07/bb/07bbf0b9505ef8f210de38709929bf8d.png
-optimized_image: https://ctftime.org/media/cache/07/bb/07bbf0b9505ef8f210de38709929bf8d.png
+image: /assets/img/inctfi-2020/800x400.jpg
+optimized_image: /assets/img/inctfi-2020/400x200.jpg
 subtitle: Buggy Writeup
 category: 'blog'
 tags:
