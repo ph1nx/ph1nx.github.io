@@ -9,9 +9,5 @@ permalink: /about/
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a 2<sup>nd</sup> year Electronics Communication Engineering Undergraduate from [Amrita Vishwa Vidyapeetham](https://amrita.edu),Bangalore campus.
+Cybersecurity enthusisat, plays CTF's with [`c0d3_h4cki05_`](https://ctftime.org/team/72702) (bi0s-Bangalore), Pursuing to get hands on with Web Exploitation. 
