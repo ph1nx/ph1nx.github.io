@@ -42,7 +42,7 @@ two_columns_layout: false
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "http://ph1nx.github.io/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
@@ -101,4 +101,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+#version: v3.1.0
