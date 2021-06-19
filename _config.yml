@@ -1,14 +1,15 @@
 # Site Settings
 name: Ph03n1x
 title: Ph03n1x | A blog for my research and CTFs
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+description: My blog for CTF writeups and research.
 tags:
-  - ctf
-  - web
-  - security
+  - CTF
+  - Web
+  - Security
   - research
-  - xss
-email: youremail@xyz.com
+  - Forensics
+  - DFIR
+email: chjramakrishna25@gmail.com
 disqus_username: disqus_username
 show_hero: true
 menu:
@@ -24,12 +25,12 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: Ph03-N1X
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: ph1nx
+#facebook_username: facebook_username
+twitter_username: ___Ph03N1X___
+#instagram_username: instagram_username
+linkedin_username: jnana-ramakrishna
+#medium_username: medium_username
 
 
 # Posts Settings
