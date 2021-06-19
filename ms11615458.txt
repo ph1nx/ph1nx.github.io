@@ -1,5 +1,0 @@
-﻿{
-  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
-  "Domain": "ph03n1x.me",
-  "Id": "9f73e0f3-3a33-4840-a309-28c4e70d25e0"
-}
